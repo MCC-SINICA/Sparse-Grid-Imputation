@@ -24,13 +24,36 @@ The results show that Contextual CycleGAN supports the proposed theory and outpe
 ## Original Raw Data (Without Preprocessing)
 Download from Google drive:
 
+EPA PM2.5 2014 ~ 2020
+
 https://drive.google.com/drive/folders/13oEujsA-XKSNH4sytjWZd7RR8JvVln2P?usp=drive_link
+
+CWB Attribute Data
+
+https://drive.google.com/file/d/1sZiEogEY5iNq-OV1SXx5z9aW47CPcIkt/view?usp=drive_link
 
 ## Model Weights (Table7, TEG2 38.8963)
 Target Embedding :
 
-https://drive.google.com/drive/folders/13oEujsA-XKSNH4sytjWZd7RR8JvVln2P?usp=drive_link
+https://drive.google.com/drive/u/6/folders/1o1_tF0Ofc3w27LsY9ntutsm-HStAECOc
 
 CycleGAN:
 
-https://drive.google.com/drive/folders/13oEujsA-XKSNH4sytjWZd7RR8JvVln2P?usp=drive_link
+https://drive.google.com/drive/u/6/folders/13-3K8MULgm4muVuLuD0IXWTGwM78YoMM
+
+## Other Data (Produce Graph used)
+
+GeographyData
+
+https://drive.google.com/drive/u/6/folders/1qtfdwgTtMXjhuYzdq3LOf5dd059yM_o_
+
+Attribute Code Data
+
+https://drive.google.com/drive/u/6/folders/1P1RXT-6gaOIL7ETQmHAEUyXoPDbvEwSq
+
+## Python Code (Ongoing, Release after Publish)
+
+
+
+
+
