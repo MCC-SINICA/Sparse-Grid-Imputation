@@ -32,7 +32,7 @@ CWB Attribute Data
 
 https://drive.google.com/file/d/1sZiEogEY5iNq-OV1SXx5z9aW47CPcIkt/view?usp=drive_link
 
-## Model Weights (Table7, TEG2 38.8963)
+## Trained model
 Target Embedding :
 
 https://drive.google.com/drive/u/6/folders/1o1_tF0Ofc3w27LsY9ntutsm-HStAECOc
