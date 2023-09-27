@@ -21,6 +21,7 @@ The results show that Contextual CycleGAN supports the proposed theory and outpe
 
 ![image](https://github.com/MCC-SINICA/Sparse-Grid-Imputation/blob/main/example/image_2022_07_01T09_35_45_149Z.png)
 
-## Original Raw Data
+## Original Raw Data (Without Preprocessing)
 Download from Google drive:
+
 https://drive.google.com/drive/folders/13oEujsA-XKSNH4sytjWZd7RR8JvVln2P?usp=drive_link
