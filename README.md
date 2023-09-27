@@ -25,3 +25,8 @@ The results show that Contextual CycleGAN supports the proposed theory and outpe
 Download from Google drive:
 
 https://drive.google.com/drive/folders/13oEujsA-XKSNH4sytjWZd7RR8JvVln2P?usp=drive_link
+
+## Model Weights (Table7, TEG2 38.8963)
+Download from Google drive:
+
+https://drive.google.com/drive/folders/13oEujsA-XKSNH4sytjWZd7RR8JvVln2P?usp=drive_link
